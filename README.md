@@ -15,6 +15,5 @@ My name is Pranshu Kaushal, a 3rd-year B.Tech student passionate about software 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshukaushal70-cmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
-https://github-readme-stats.vercel.app/api?username=pranshukaushal70-cmd&cache_seconds=0
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
