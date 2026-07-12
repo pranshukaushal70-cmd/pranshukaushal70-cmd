@@ -40,25 +40,7 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🎮 [**game-hospital**](https://github.com/pranshukaushal70-cmd/game-hospital) | JavaScript project |
-| 📚 [**GFG**](https://github.com/pranshukaushal70-cmd/GFG) | Collection of GeeksforGeeks DSA questions (C++) |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranshukaushal70-cmd&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshukaushal70-cmd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pranshukaushal70-cmd&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 📫 Reach Me
 
