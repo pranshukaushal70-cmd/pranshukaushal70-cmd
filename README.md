@@ -1,19 +1,77 @@
-# 💫 About Me:
-My name is Pranshu Kaushal, a 3rd-year B.Tech student passionate about software development and<br> problem-solving. I am currently learning DSA in C++, OOPs in Java, and **Full-Stack Development. I have<br> experience with HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, AWS, MongoDB, PostgreSQL, and Python<br>, and I enjoy building web applications while continuously improving my technical skills.<br>
+<h1 align="center">Hi there, I'm Pranshu Kaushal 👋</h1>
 
+<h3 align="center">A B.Tech student passionate about Software Development & Problem Solving</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranshukaushal_.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranshu-kaushal-a6a652328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranshukaushal70@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0F7&center=true&vCenter=true&width=600&lines=Learning+DSA+in+C%2B%2B;Exploring+OOPs+in+Java;Building+Full-Stack+Web+Apps;Breaking+things+to+understand+them+better" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!--# 📊 GitHub Stats
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranshu-kaushal-a6a652328" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pranshukaushal70@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/pranshukaushal_.04" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranshukaushal70-cmd&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranshukaushal70-cmd&theme=dark&hide_border=false)
+### 🚀 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshukaushal70-cmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+- 🎓 3rd-year B.Tech student, currently deep-diving into **DSA (C++)**, **OOPs (Java)**, and **Full-Stack Development**
+- 💻 Comfortable across the stack — from **HTML/CSS/JS** on the frontend to **Node.js, Express, MongoDB & PostgreSQL** on the backend
+- ☁️ Getting hands-on with **AWS** for cloud deployment
+- 🌱 Always building, breaking, and reinventing things to learn how they *really* work
+- ⚡ Fun fact: I enjoy turning half-finished ideas into working (if slightly chaotic) projects
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,react,nextjs,nodejs,express,mongodb,postgres,aws,figma,git,github,postman&theme=dark" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/pranshukaushal70-cmd/game-hospital">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshukaushal70-cmd&repo=game-hospital&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/pranshukaushal70-cmd/GFG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshukaushal70-cmd&repo=GFG&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranshukaushal70-cmd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshukaushal70-cmd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshukaushal70-cmd&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+<p align="center">
+  📧 <b>pranshukaushal70@gmail.com</b> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/pranshu-kaushal-a6a652328">LinkedIn</a> &nbsp;|&nbsp;
+  📸 <a href="https://instagram.com/pranshukaushal_.04">Instagram</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranshukaushal70-cmd&label=Profile%20Views&color=2EA0F7&style=flat" />
+</p>
