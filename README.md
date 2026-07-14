@@ -49,6 +49,4 @@
   📸 <a href="https://instagram.com/pranshukaushal_.04">Instagram</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranshukaushal70-cmd&label=Profile%20Views&color=2EA0F7&style=flat" />
-</p>
+
