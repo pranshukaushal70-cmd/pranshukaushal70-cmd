@@ -47,6 +47,6 @@
   📧 <b>pranshukaushal70@gmail.com</b> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/pranshu-kaushal-a6a652328">LinkedIn</a> &nbsp;|&nbsp;
   📸 <a href="https://instagram.com/pranshukaushal_.04">Instagram</a>
-</p>
+</p
 
 
