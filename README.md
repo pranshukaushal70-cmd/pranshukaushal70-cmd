@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,react,nextjs,nodejs,express,mongodb,postgres,aws,figma,git,github,postman&theme=dark" />
